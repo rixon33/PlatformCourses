@@ -43,10 +43,7 @@ Discover, filter, and enroll in high-quality courses, track your progress, and j
 - Tailwind CSS
 - Vite
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
-*Made with ❤️ by [tu nombre o usuario de GitHub]*
+*Made with ❤️ by rixon33*

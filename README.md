@@ -1,54 +1,52 @@
-# React + TypeScript + Vite
+# RxAcademy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RxAcademy is a modern web platform for online courses, built with React and TypeScript.  
+Discover, filter, and enroll in high-quality courses, track your progress, and join a vibrant learning community.
 
-Currently, two official plugins are available:
+Customization
+RxAcademy is open for customization — feel free to adapt the platform to fit your own needs.
+Whether you're building a personal learning portal or a public course directory, you can modify, extend, or integrate the project as you like.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- 🔍 **Course filtering** by category and difficulty (combine both!)
+- 🏷️ **User authentication** (register and sign in)
+- 📚 **Course cards** with details, difficulty color coding, and smooth hover effects
+- 🎨 **Responsive design** with a modern UI
+- 🏆 **Progress tracking** and certificates (future feature)
+- 🌐 **Community support** (future feature)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Screenshots
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+<!-- Aquí puedes agregar tus capturas de pantalla -->
+![Home Screenshot](https://github.com/user-attachments/assets/25b03eac-ee27-41e3-bcd3-7bdca722d6f0)
+![Courses Screenshot](https://github.com/user-attachments/assets/c4de8a5f-44fb-4e3f-9f2d-f178180fbce0)
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Getting Started
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tuusuario/plataforma_cursos.git
+   cd plataforma_cursos
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+## Technologies
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+
+---
+
+*Made with ❤️ by rixon33*

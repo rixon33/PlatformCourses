@@ -39,7 +39,7 @@ function App() {
                     </div>
                     <div className="w-1/2 md:w-1/3 h-full flex justify-center items-center">
                         <img
-                            src="../src/img/banner.png"
+                            src="/img/banner.png"
                             alt="Banner de la academia"
                             className="rounded-lg shadow-lg hidden md:block"
                         />

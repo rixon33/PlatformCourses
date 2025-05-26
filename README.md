@@ -3,6 +3,10 @@
 RxAcademy is a modern web platform for online courses, built with React and TypeScript.  
 Discover, filter, and enroll in high-quality courses, track your progress, and join a vibrant learning community.
 
+Customization
+RxAcademy is open for customization — feel free to adapt the platform to fit your own needs.
+Whether you're building a personal learning portal or a public course directory, you can modify, extend, or integrate the project as you like.
+
 ## Features
 
 - 🔍 **Course filtering** by category and difficulty (combine both!)
@@ -17,7 +21,6 @@ Discover, filter, and enroll in high-quality courses, track your progress, and j
 <!-- Aquí puedes agregar tus capturas de pantalla -->
 ![Home Screenshot](https://github.com/user-attachments/assets/25b03eac-ee27-41e3-bcd3-7bdca722d6f0)
 ![Courses Screenshot](https://github.com/user-attachments/assets/c4de8a5f-44fb-4e3f-9f2d-f178180fbce0)
-![Mobile Menu Screenshot](https://github.com/user-attachments/assets/3ebb26fe-956c-4c11-8114-0976a00358ed)
 
 ## Getting Started
 

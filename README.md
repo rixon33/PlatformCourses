@@ -15,9 +15,9 @@ Discover, filter, and enroll in high-quality courses, track your progress, and j
 ## Screenshots
 
 <!-- Aquí puedes agregar tus capturas de pantalla -->
-![Home Screenshot](screenshots/home.png)
-![Courses Screenshot](screenshots/courses.png)
-![Mobile Menu Screenshot](screenshots/mobile_menu.png)
+![Home Screenshot](https://github.com/user-attachments/assets/25b03eac-ee27-41e3-bcd3-7bdca722d6f0)
+![Courses Screenshot](https://github.com/user-attachments/assets/c4de8a5f-44fb-4e3f-9f2d-f178180fbce0)
+![Mobile Menu Screenshot](https://github.com/user-attachments/assets/3ebb26fe-956c-4c11-8114-0976a00358ed)
 
 ## Getting Started
 
